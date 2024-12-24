@@ -1,0 +1,15 @@
+.main-heading{
+  color:brown;
+  font-weight:bold;
+  font-size:50px;
+  text-align:center;
+  font-family:'Courier New', Courier, monospace;
+}
+@media (max-width:768px){
+  .main-heading{
+    font-size:28px;
+  }
+}
+.App{
+  background-color:antiquewhite;
+}
